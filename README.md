@@ -6,4 +6,4 @@ https://www.researchgate.net/publication/321850001_Dynamics_and_Control_of_Flexi
 
 With DOI: 10.13140/RG.2.2.29036.26242
 
-Lecture videos can be found at: http://vin.AcademyOfKnowledge.org
+Lecture videos can be found at: http://vib.AcademyOfKnowledge.org
